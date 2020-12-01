@@ -76,7 +76,7 @@ session    optional   pam_keyinit.so force revoke
 
 
 ##### Resources:
-[Kernal.org](https://mirrors.edge.kernel.org/pub/linux/libs/pam/)
-[Redhat.com](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/managing_smart_cards/pluggable_authentication_modules#About_PAM)
-[tldp](https://tldp.org/HOWTO/User-Authentication-HOWTO/x115.html#:~:text=When%20this%20is%20the%20case,found%20in%20%2Flib%2Fsecurity.)
-[oracle](https://docs.oracle.com/cd/E19683-01/816-4883/pam-32/index.html)
+[Kernal.org](https://mirrors.edge.kernel.org/pub/linux/libs/pam/)<br />
+[Redhat.com](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/managing_smart_cards/pluggable_authentication_modules#About_PAM)<br />
+[tldp](https://tldp.org/HOWTO/User-Authentication-HOWTO/x115.html#:~:text=When%20this%20is%20the%20case,found%20in%20%2Flib%2Fsecurity.)<br />
+[oracle](https://docs.oracle.com/cd/E19683-01/816-4883/pam-32/index.html)<br />
